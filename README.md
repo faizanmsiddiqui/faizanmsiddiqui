@@ -1,13 +1,5 @@
 <!-- markdownlint-disable MD033 MD041 -->
 
-<div align="center">
-  <img
-    src="docs/pages/assets/images/banner-standard.png"
-    style="border-radius: 10px"
-    alt="project banner"
-  />
-</div>
-
 <!--
 # Hi there! 👋
 
